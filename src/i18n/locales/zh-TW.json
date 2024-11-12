@@ -1,0 +1,55 @@
+{
+  "title": "訪客分析儀表板",
+  "visitorId": "訪客 ID",
+  "summary": {
+    "visits": "訪問次數",
+    "privacyMode": "隱私模式",
+    "ip": "IP 位址"
+  },
+  "status": {
+    "active": "啟用",
+    "inactive": "未啟用",
+    "detected": "已偵測",
+    "notDetected": "未偵測",
+    "unknown": "未知"
+  },
+  "sections": {
+    "riskLevel": "風險等級",
+    "networkStatus": "網路狀態",
+    "browserInfo": "瀏覽器資訊",
+    "anomalies": "異常狀況",
+    "deviceInfo": "裝置資訊",
+    "sessionInfo": "連線資訊"
+  },
+  "deviceInfo": {
+    "screenResolution": "螢幕解析度",
+    "colorDepth": "色彩深度",
+    "deviceMemory": "裝置記憶體",
+    "cpuCores": "CPU 核心數",
+    "brand": "品牌",
+    "model": "型號",
+    "os": "作業系統"
+  },
+  "sessionInfo": {
+    "visitCount": "訪問次數",
+    "lastVisit": "最後訪問",
+    "connectionType": "連線類型",
+    "latency": "網路延遲"
+  },
+  "riskLevel": {
+    "title": "風險等級",
+    "low": "低風險",
+    "medium": "中風險",
+    "high": "高風險"
+  },
+  "history": {
+    "title": "訪問記錄",
+    "visitTime": "訪問時間",
+    "location": "位置資訊",
+    "network": "網路資訊",
+    "device": "裝置資訊",
+    "fingerprint": "指紋資訊",
+    "networkFingerprint": "網路指紋",
+    "hardwareFingerprint": "硬體指紋"
+  }
+}

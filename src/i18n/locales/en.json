@@ -1,0 +1,55 @@
+{
+  "title": "Visitor Analytics Dashboard",
+  "visitorId": "Visitor ID",
+  "summary": {
+    "visits": "Visits",
+    "privacyMode": "Privacy Mode",
+    "ip": "IP"
+  },
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive",
+    "detected": "Detected",
+    "notDetected": "Not Detected",
+    "unknown": "Unknown"
+  },
+  "sections": {
+    "riskLevel": "Risk Level",
+    "networkStatus": "Network Status",
+    "browserInfo": "Browser Info",
+    "anomalies": "Anomalies",
+    "deviceInfo": "Device Information",
+    "sessionInfo": "Session Information"
+  },
+  "deviceInfo": {
+    "screenResolution": "Screen Resolution",
+    "colorDepth": "Color Depth",
+    "deviceMemory": "Device Memory",
+    "cpuCores": "CPU Cores",
+    "brand": "Brand",
+    "model": "Model",
+    "os": "Operating System"
+  },
+  "sessionInfo": {
+    "visitCount": "Visit Count",
+    "lastVisit": "Last Visit",
+    "connectionType": "Connection Type",
+    "latency": "Network Latency"
+  },
+  "riskLevel": {
+    "title": "Risk Level",
+    "low": "Low Risk",
+    "medium": "Medium Risk",
+    "high": "High Risk"
+  },
+  "history": {
+    "title": "Visit History",
+    "visitTime": "Visit Time",
+    "location": "Location",
+    "network": "Network Info",
+    "device": "Device Info",
+    "fingerprint": "Fingerprint Info",
+    "networkFingerprint": "Network Fingerprint",
+    "hardwareFingerprint": "Hardware Fingerprint"
+  }
+}

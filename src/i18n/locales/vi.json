@@ -1,0 +1,36 @@
+{
+  "title": "Bảng điều khiển Phân tích Khách truy cập",
+  "visitorId": "ID Khách",
+  "summary": {
+    "visits": "Lượt truy cập",
+    "privacyMode": "Chế độ riêng tư",
+    "ip": "Địa chỉ IP"
+  },
+  "status": {
+    "active": "Hoạt động",
+    "inactive": "Không hoạt động",
+    "detected": "Đã phát hiện",
+    "notDetected": "Không phát hiện",
+    "unknown": "Không xác định"
+  },
+  "sections": {
+    "riskLevel": "Mức độ rủi ro",
+    "networkStatus": "Trạng thái mạng",
+    "browserInfo": "Thông tin trình duyệt",
+    "anomalies": "Bất thường",
+    "deviceInfo": "Thông tin thiết bị",
+    "sessionInfo": "Thông tin phiên"
+  },
+  "deviceInfo": {
+    "screenResolution": "Độ phân giải màn hình",
+    "colorDepth": "Độ sâu màu",
+    "deviceMemory": "Bộ nhớ thiết bị",
+    "cpuCores": "Số lõi CPU"
+  },
+  "sessionInfo": {
+    "visitCount": "Số lần truy cập",
+    "lastVisit": "Lần truy cập cuối",
+    "connectionType": "Loại kết nối",
+    "latency": "Độ trễ mạng"
+  }
+}

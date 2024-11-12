@@ -1,0 +1,36 @@
+{
+  "title": "访客分析仪表板",
+  "visitorId": "访客 ID",
+  "summary": {
+    "visits": "访问次数",
+    "privacyMode": "隐私模式",
+    "ip": "IP 地址"
+  },
+  "status": {
+    "active": "启用",
+    "inactive": "未启用",
+    "detected": "已检测",
+    "notDetected": "未检测",
+    "unknown": "未知"
+  },
+  "sections": {
+    "riskLevel": "风险等级",
+    "networkStatus": "网络状态",
+    "browserInfo": "浏览器信息",
+    "anomalies": "异常状况",
+    "deviceInfo": "设备信息",
+    "sessionInfo": "会话信息"
+  },
+  "deviceInfo": {
+    "screenResolution": "屏幕分辨率",
+    "colorDepth": "色彩深度",
+    "deviceMemory": "设备内存",
+    "cpuCores": "CPU 核心数"
+  },
+  "sessionInfo": {
+    "visitCount": "访问次数",
+    "lastVisit": "最后访问",
+    "connectionType": "连接类型",
+    "latency": "网络延迟"
+  }
+}
